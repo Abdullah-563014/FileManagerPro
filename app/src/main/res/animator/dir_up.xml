@@ -1,0 +1,9 @@
+
+
+<objectAnimator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:valueFrom="0"
+    android:valueTo="1"
+    android:propertyName="position"
+    android:valueType="floatType"
+    android:duration="@android:integer/config_mediumAnimTime"
+    android:interpolator="@android:interpolator/accelerate_quad" />

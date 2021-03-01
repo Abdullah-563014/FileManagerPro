@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<filemanager.fileexplorer.ui.CommonFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/background"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#323232">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom"
+        android:baselineAligned="false"
+        app:boxedEdges="left|bottom|right"
+        android:minHeight="?android:attr/listPreferredItemHeightSmall"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@android:id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="?android:attr/selectableItemBackground"
+            android:contentDescription="@android:string/cancel"
+            android:padding="16dp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            app:srcCompat="@drawable/ic_action_close" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@android:id/title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:singleLine="true"
+                android:textAlignment="viewStart"
+                android:textColor="@android:color/white"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@android:id/text1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:singleLine="true"
+                android:textAlignment="viewStart"
+                android:textColor="@android:color/white"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+            <ImageButton
+                android:id="@android:id/button1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="?android:attr/selectableItemBackground"
+                android:contentDescription="@string/menu_paste"
+                android:padding="16dp"
+                android:text="@string/menu_paste"
+                android:textAllCaps="true"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                app:srcCompat="@drawable/ic_action_done" />
+
+            <filemanager.fileexplorer.ui.MaterialProgressBar
+                android:id="@android:id/progress"
+                style="@style/ListProgress"
+                android:layout_width="@dimen/progress_bar_small_size"
+                android:layout_height="@dimen/progress_bar_small_size"
+                android:layout_gravity="center"
+                android:indeterminate="true"
+                android:visibility="gone" />
+        </FrameLayout>
+    </LinearLayout>
+
+</filemanager.fileexplorer.ui.CommonFrameLayout>

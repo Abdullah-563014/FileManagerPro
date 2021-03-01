@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131913758290",
+    "project_id": "filemanager-a8894",
+    "storage_bucket": "filemanager-a8894.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131913758290:android:fe1a90383f602cc534918b",
+        "android_client_info": {
+          "package_name": "filemanager.fileexplorer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131913758290-7ol1f005n6rsc0b08rbi47kaccgnqjpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbsmGZLSE_GOUTTZsbhnbhOjz7P4kcNig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131913758290-7ol1f005n6rsc0b08rbi47kaccgnqjpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
