@@ -68,7 +68,6 @@
     <string name="download_running_percent">In progress, <xliff:g id="number">%d</xliff:g><xliff:g id="percent">%%</xliff:g></string>
     <string name="name">File Manager &amp; Explorer Pro</string>
     <string name="app_name">File Manager &amp; Explorer Pro</string>
-    <string name="app_ver">Another Explorer</string>
     <string name="pref_folder_size">Display folder size</string>
     <string name="pref_thumbnail">Display file thumbnails</string>
     <string name="pref_hidden">Show hidden files</string>
@@ -109,7 +108,6 @@
     <string name="uncompress_error">Failed to uncompress</string>
     <string name="upload_error">Failed to upload</string>
     <string name="add">Add</string>
-    <string name="made_with_love">Made with Love</string>
 
     <string-array name="theme_style_names">
         <item>Light</item>
@@ -138,7 +136,6 @@
     <string name="ext_media_status_ejecting" msgid="5463887263101234174">"Ejecting…"</string>
     <string name="ext_media_status_formatting" msgid="1085079556538644861">"Formatting…"</string>
 
-    <string name="storage_internal" msgid="4891916833657929263">"Internal storage"</string>
     <string name="storage_sd_card" msgid="3282948861378286745">"SD card"</string>
     <string name="storage_sd_card_label" msgid="6347111320774379257">"<xliff:g id="MANUFACTURER">%s</xliff:g> SD card"</string>
     <string name="storage_usb_drive" msgid="6261899683292244209">"USB drive"</string>
@@ -164,26 +161,12 @@
     <string name="accent_color">Accent Color</string>
 
     //PRO
-    <string name="app_pro">AnExplorer Pro</string>
-    <string name="app_pro_content">Unlocks extra features, such as the Network &amp; Cloud Storage,
-        Root Storage, USB Storage and removes ads. \n\nThe source code of File Manager &amp; Explorer Pro is available on GitHub.
-        You are welcome to compile the pro version yourself for free.
-        \n\nHowever if you like what I do and love File Manager &amp; Explorer Pro and want us to survive,
-        support the development and receive updates through the Play Store, consider purchasing
-        File Manager &amp; Explorer Pro.
-        \n\nThank you.</string>
-    <string name="restoring_purchase">Restoring purchase…</string>
-    <string name="could_not_restore_purchase">Could not restore purchase.</string>
-    <string name="purchase">Support</string>
-    <string name="restore">Restore</string>
     <string name="thank_you">Thank you!</string>
     <string name="support_app">Support File Manager &amp; Explorer Pro</string>
-    <string name="restored_previous_purchase_please_restart">Restored previous purchase.</string>
 
     <string name="casty_introduction_text">Use this button to connect with Chromecast</string>
     <string name="queue_empty">No items in Queue!</string>
     <string name="show_queue">Show Queue</string>
-    <string name="queue_list">Cast Queue</string>
     <string name="action_clear_queue">Clear Queue</string>
     <string name="action_delete">Delete Item</string>
 
@@ -199,11 +182,10 @@
         3. Now you can view all your files on PC without any cables.
     </string>
 
-    <string name="privacy_policy_url">https://urappbazar.blogspot.com/p/weather-app-privacy-policy.html?m=1</string>
+    <string name="privacy_policy_url">https://urappbazar5630.blogspot.com/p/privacy-policy-body-font-family.html</string>
     <string name="update_message">Your app is not update. Please update to latest version.</string>
     <string name="update_title">Found New Update</string>
     <string name="update_now">Update Now</string>
-    <string name="ok">Ok</string>
     <string name="app_feedback_title">Rate Our App</string>
     <string name="app_feedback_message">We are working hard for better user experience. We\'d greatly appreciate if you can rate us. (best rating will help us for inspiring to improve)</string>
 

@@ -11,7 +11,7 @@
         android:orientation="vertical"
         android:visibility="gone">
 
-        <filemanager.fileexplorer.ui.MaterialProgressBar
+        <filemanager.fileexplorer.pro.ui.MaterialProgressBar
             android:id="@+id/progressBar"
             style="@style/ListProgress"
             android:layout_width="@dimen/progress_bar_size"

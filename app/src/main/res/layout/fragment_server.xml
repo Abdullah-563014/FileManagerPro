@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<filemanager.fileexplorer.ui.CommonFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<filemanager.fileexplorer.pro.ui.CommonFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -27,7 +27,7 @@
                 android:layout_marginBottom="30dp"
                 android:layout_marginTop="30dp">
 
-                <filemanager.fileexplorer.ui.CircleImage
+                <filemanager.fileexplorer.pro.ui.CircleImage
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_gravity="center"
@@ -216,4 +216,4 @@
     </ScrollView>
 
 
-</filemanager.fileexplorer.ui.CommonFrameLayout>
+</filemanager.fileexplorer.pro.ui.CommonFrameLayout>

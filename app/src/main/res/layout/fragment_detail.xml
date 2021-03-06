@@ -22,7 +22,7 @@
             android:foregroundGravity="fill"
             android:minHeight="200dp">
 
-            <filemanager.fileexplorer.ui.CircleImage
+            <filemanager.fileexplorer.pro.ui.CircleImage
                 android:id="@+id/icon_mime_background"
                 android:layout_width="100dp"
                 android:layout_height="100dp"

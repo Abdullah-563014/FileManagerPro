@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<filemanager.fileexplorer.ui.CommonFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<filemanager.fileexplorer.pro.ui.CommonFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -15,4 +15,4 @@
         app:boxedEdges="all"
         android:theme="@style/EditTextAppTheme"/>
 
-</filemanager.fileexplorer.ui.CommonFrameLayout>
+</filemanager.fileexplorer.pro.ui.CommonFrameLayout>

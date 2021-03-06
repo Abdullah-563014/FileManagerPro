@@ -3,7 +3,7 @@ package android.support.provider;
 import android.content.Context;
 import android.net.Uri;
 
-import filemanager.fileexplorer.misc.Utils;
+import filemanager.fileexplorer.pro.misc.Utils;
 
 /**
  * Created by HaKr on 25/01/17.

@@ -21,7 +21,7 @@
 #-renamesourcefileattribute SourceFile
 
 
--keepclassmembers class filemanager.fileexplorer.model.* {
+-keepclassmembers class filemanager.fileexplorer.pro.model.* {
   *;
 }
 

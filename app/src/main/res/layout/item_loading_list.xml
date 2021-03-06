@@ -6,7 +6,7 @@
     android:layout_height="wrap_content"
     android:minHeight="@dimen/list_item_height">
 
-    <filemanager.fileexplorer.ui.MaterialProgressBar
+    <filemanager.fileexplorer.pro.ui.MaterialProgressBar
         android:id="@+id/progressBar"
         style="@style/ListProgress"
         android:layout_width="@dimen/progress_bar_small_size"

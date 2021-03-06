@@ -25,7 +25,7 @@
             android:layout_weight="1"
             android:background="@color/item_doc_grid_protect_background_light">
 
-            <filemanager.fileexplorer.ui.CircleImage
+            <filemanager.fileexplorer.pro.ui.CircleImage
                 android:id="@+id/icon_mime_background"
                 android:layout_width="@dimen/grid_icon_size"
                 android:layout_height="@dimen/grid_icon_size"

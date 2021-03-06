@@ -6,6 +6,11 @@
     <string name="admob_interstitial_ads" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
 
 
+<!--    // for admob real ads-->
+<!--    <string name="admob_app_id" translatable="false">ca-app-pub-9356290658226735~3315978579</string>-->
+<!--    <string name="admob_interstitial_ads" translatable="false">ca-app-pub-9356290658226735/6872080206</string>-->
+
+
 
 
 </resources>

@@ -15,7 +15,7 @@
             android:summary="%s"
             android:title="@string/pref_theme_style_title" />
 
-        <filemanager.fileexplorer.ui.MaterialColorPreference
+        <filemanager.fileexplorer.pro.ui.MaterialColorPreference
             android:defaultValue="@color/primaryColor"
             android:dialogTitle="@string/pref_foreground_color_title"
             android:icon="@drawable/dummy_icon"
@@ -27,7 +27,7 @@
             app:color_type="primary"
             app:itemLayout="@layout/pref_layout_color" />
 
-        <filemanager.fileexplorer.ui.MaterialColorPreference
+        <filemanager.fileexplorer.pro.ui.MaterialColorPreference
             android:defaultValue="@color/accentColor"
             android:dialogTitle="@string/pref_foreground_color_title"
             android:icon="@drawable/dummy_icon"

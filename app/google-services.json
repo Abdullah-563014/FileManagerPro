@@ -1,33 +1,34 @@
 {
   "project_info": {
-    "project_number": "131913758290",
-    "project_id": "filemanager-a8894",
-    "storage_bucket": "filemanager-a8894.appspot.com"
+    "project_number": "625040317181",
+    "firebase_url": "https://file-manager-65b16-default-rtdb.firebaseio.com",
+    "project_id": "file-manager-65b16",
+    "storage_bucket": "file-manager-65b16.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:131913758290:android:fe1a90383f602cc534918b",
+        "mobilesdk_app_id": "1:625040317181:android:a0b6a5a1cc6a99692dfc94",
         "android_client_info": {
-          "package_name": "filemanager.fileexplorer"
+          "package_name": "filemanager.fileexplorer.pro"
         }
       },
       "oauth_client": [
         {
-          "client_id": "131913758290-7ol1f005n6rsc0b08rbi47kaccgnqjpi.apps.googleusercontent.com",
+          "client_id": "625040317181-873qt06eitivj838nct5u6epejiub58r.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAbsmGZLSE_GOUTTZsbhnbhOjz7P4kcNig"
+          "current_key": "AIzaSyBY2GoG0ryAtrZqiFfsIBLY8ekNyGt4pbw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "131913758290-7ol1f005n6rsc0b08rbi47kaccgnqjpi.apps.googleusercontent.com",
+              "client_id": "625040317181-873qt06eitivj838nct5u6epejiub58r.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

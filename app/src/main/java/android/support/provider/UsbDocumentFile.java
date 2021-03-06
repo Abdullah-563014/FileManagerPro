@@ -7,8 +7,8 @@ import android.os.Build;
 
 import androidx.annotation.RequiresApi;
 
-import filemanager.fileexplorer.model.DocumentsContract;
-import filemanager.fileexplorer.provider.UsbStorageProvider;
+import filemanager.fileexplorer.pro.model.DocumentsContract;
+import filemanager.fileexplorer.pro.provider.UsbStorageProvider;
 
 
 /**

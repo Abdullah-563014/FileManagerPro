@@ -39,7 +39,7 @@
 
     </FrameLayout>
 
-    <filemanager.fileexplorer.ui.RecyclerViewPlus
+    <filemanager.fileexplorer.pro.ui.RecyclerViewPlus
         android:id="@+id/recyclerview"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

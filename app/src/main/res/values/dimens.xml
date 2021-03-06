@@ -53,7 +53,6 @@
 
     <dimen name="scroll_threshold">4dp</dimen>
 
-    <dimen name="second_keyline">72dp</dimen>
     <dimen name="second_keyline_default">72dp</dimen>
     <dimen name="toolbar_h_padding">4dp</dimen>
     <dimen name="side_navigation_width">304dp</dimen>
@@ -63,7 +62,6 @@
     <integer name="recycler_type">2</integer>
     <dimen name="big_spacing">24dp</dimen>
 
-    <dimen name="card_padding">8dp</dimen>
     <dimen name="header_start_padding">0dp</dimen>
 
     <dimen name="home_padding">0dp</dimen>
@@ -71,7 +69,6 @@
     <dimen name="home_item_padding">10dp</dimen>
     <integer name="home_span">8</integer>
     <dimen name="document_list_padding">80dp</dimen>
-    <dimen name="drawer_padding">24dp</dimen>
     <dimen name="preference_padding">72dp</dimen>
     <dimen name="shortcut_height">63dp</dimen>
 </resources>

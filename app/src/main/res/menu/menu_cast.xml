@@ -12,6 +12,6 @@
         android:id="@+id/casty_media_route_menu_item"
         android:title="Cast"
         android:orderInCategory="10"
-        app:actionProviderClass="filemanager.fileexplorer.cast.CastActionProvider"
+        app:actionProviderClass="filemanager.fileexplorer.pro.cast.CastActionProvider"
         app:showAsAction="always" />
 </menu>

@@ -24,7 +24,7 @@
             android:layout_height="@dimen/shortcut_height"
             android:duplicateParentState="true">
 
-            <filemanager.fileexplorer.ui.CircleImage
+            <filemanager.fileexplorer.pro.ui.CircleImage
                 android:id="@+id/icon_background"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

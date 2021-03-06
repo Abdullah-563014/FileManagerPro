@@ -13,7 +13,7 @@ import android.util.Log;
 
 import java.util.ArrayList;
 
-import filemanager.fileexplorer.model.DocumentsContract;
+import filemanager.fileexplorer.pro.model.DocumentsContract;
 
 class DocumentsContractCompat {
     private static final String TAG = "DocumentsContractCompat";

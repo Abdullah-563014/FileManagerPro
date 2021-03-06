@@ -6,7 +6,6 @@
 
     <!-- Action bar title prompting user to choose a location to open a document from [CHAR LIMIT=32] -->
     <!-- Action bar title prompting user to choose a location to save a document to [CHAR LIMIT=32] -->
-    <string name="title_save">Save to</string>
 
     <!-- Menu item that creates a new directory/folder at the current location [CHAR LIMIT=24] -->
     <string name="menu_create_dir">Create folder</string>
@@ -85,6 +84,5 @@
 <!--    <string name="cloud_onedrive">One Drive</string>-->
 <!--    <string name="cloud_box">Box</string>-->
     <string name="network_ftp">FTP</string>
-    <string name="todo">TODO</string>
     <drawable name="dummy_icon">@drawable/ic_dummy_icon</drawable>
 </resources>

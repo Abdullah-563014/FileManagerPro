@@ -2,14 +2,11 @@
 
     <!-- Transfer activity -->
     <string name="activity_transfer_empty_text">No transfers in progress</string>
-    <string name="activity_transfer_navigation_drawer_open">Open navigation drawer</string>
-    <string name="activity_transfer_navigation_drawer_close">Close navigation drawer</string>
 
     <!-- Share activity -->
     <string name="activity_share">Transfer with AnExplorer</string>
     <string name="activity_share_label">Select a device from the list below to transfer:</string>
     <string name="activity_share_empty">No devices found \n You need AnExplorer on other device</string>
-    <string name="activity_share_intent">AnExplorer cannot send the data it has received from a third-party application.</string>
     <string name="activity_share_permissions">AnExplorer cannot transfer data without permission to access storage.</string>
 
     <!-- Transfer service -->
@@ -18,7 +15,6 @@
     <string name="service_transfer_action_retry">Retry</string>
     <string name="service_transfer_server_title">Receive Files Started</string>
     <string name="service_transfer_server_listening_text">Listening for incoming files</string>
-    <string name="service_transfer_status_connecting">Connecting to %1$s…</string>
     <string name="service_transfer_status_receiving">Receiving items from %1$s…</string>
     <string name="service_transfer_status_sending">Sending items to %1$s…</string>
     <string name="service_transfer_status_success">Transfer with %1$s completed</string>
@@ -38,7 +34,6 @@
     <string name="adapter_transfer_unknown">unknown</string>
     <string name="adapter_transfer_bytes">%1$s / %2$s</string>
     <string name="adapter_transfer_stop">Stop</string>
-    <string name="adapter_transfer_retry">Retry</string>
 
     <plurals name="service_transfer_server_transferring_text">
         <item quantity="one">%1$d transfer in progress</item>

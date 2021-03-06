@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<filemanager.fileexplorer.ui.CommonFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<filemanager.fileexplorer.pro.ui.CommonFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
@@ -55,7 +55,7 @@
                 android:textAppearance="?android:attr/textAppearanceSmall"
                 app:srcCompat="@drawable/ic_action_done" />
 
-            <filemanager.fileexplorer.ui.MaterialProgressBar
+            <filemanager.fileexplorer.pro.ui.MaterialProgressBar
                 android:id="@android:id/progress"
                 style="@style/ListProgress"
                 android:layout_width="@dimen/progress_bar_small_size"
@@ -66,4 +66,4 @@
         </FrameLayout>
     </LinearLayout>
 
-</filemanager.fileexplorer.ui.CommonFrameLayout>
+</filemanager.fileexplorer.pro.ui.CommonFrameLayout>

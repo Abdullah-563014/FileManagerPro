@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<filemanager.fileexplorer.ui.DirectoryView xmlns:android="http://schemas.android.com/apk/res/android"
+<filemanager.fileexplorer.pro.ui.DirectoryView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -14,7 +14,7 @@
         android:orientation="vertical"
         android:visibility="visible">
 
-        <filemanager.fileexplorer.ui.MaterialProgressBar
+        <filemanager.fileexplorer.pro.ui.MaterialProgressBar
             android:id="@+id/progressBar"
             style="@style/ListProgress"
             android:layout_width="@dimen/progress_bar_size"
@@ -39,7 +39,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <filemanager.fileexplorer.ui.RecyclerViewPlus
+        <filemanager.fileexplorer.pro.ui.RecyclerViewPlus
             android:id="@id/recyclerview"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -52,7 +52,7 @@
             android:padding="@dimen/home_padding"
             app:type="custom" />
 
-        <filemanager.fileexplorer.ui.CompatTextView
+        <filemanager.fileexplorer.pro.ui.CompatTextView
             android:id="@android:id/empty"
             style="@style/TextAppearance.AppCompat.Subhead"
             android:layout_width="wrap_content"
@@ -64,4 +64,4 @@
             app:drawableTop="@drawable/ic_empty_file" />
     </FrameLayout>
 
-</filemanager.fileexplorer.ui.DirectoryView>
+</filemanager.fileexplorer.pro.ui.DirectoryView>

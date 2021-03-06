@@ -2,12 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
 
-    <style name="NavigationStyle">
-        <item name="android:colorForeground">@android:color/white</item>
-        <item name="android:textColorPrimary">@android:color/white</item>
-    </style>
-
-
     <style name="DocumentsTheme.Splash">
         <item name="windowNoTitle">true</item>
         <item name="android:windowContentOverlay">@null</item>
@@ -56,10 +50,6 @@
         <item name="actionModeStyle">@style/Custom.Widget.ActionMode</item>
         <item name="actionModeCloseButtonStyle">@style/Custom.Widget.ActionButton.CloseMode</item>
         <item name="android:navigationBarColor" tools:targetApi="26">@color/navBarColor</item>
-    </style>
-
-    <style name="DocumentsTheme.DailogPIN">
-        <item name="android:windowNoTitle">true</item>
     </style>
 
     <style name="DocumentsTheme.Setting">
